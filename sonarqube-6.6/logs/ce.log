@@ -1,0 +1,45 @@
+2018.01.10 18:38:01 INFO  ce[][o.s.p.ProcessEntryPoint] Starting ce
+2018.01.10 18:38:01 INFO  ce[][o.s.ce.app.CeServer] Compute Engine starting up...
+2018.01.10 18:38:01 INFO  ce[][o.e.p.PluginsService] no modules loaded
+2018.01.10 18:38:01 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018.01.10 18:38:01 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018.01.10 18:38:01 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018.01.10 18:38:01 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018.01.10 18:38:02 INFO  ce[][o.s.s.e.EsClientProvider] Connected to local Elasticsearch: [127.0.0.1:9001]
+2018.01.10 18:38:02 INFO  ce[][o.sonar.db.Database] Create JDBC data source for jdbc:h2:tcp://127.0.0.1:9092/sonar
+2018.01.10 18:38:02 WARN  ce[][o.s.d.DatabaseChecker] H2 database should be used for evaluation purpose only
+2018.01.10 18:38:03 INFO  ce[][o.s.s.p.ServerFileSystemImpl] SonarQube home: C:\Users\Marco\Desktop\sonarqube-6.6
+2018.01.10 18:38:03 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
+2018.01.10 18:38:07 WARN  ce[][o.s.c.p.ComponentKeys] Bad component key: org.sonar.process.systeminfo.JvmStateSection@18f428eb. Please implement toString() method on class org.sonar.process.systeminfo.JvmStateSection
+2018.01.10 18:38:08 INFO  ce[][o.s.c.q.PurgeCeActivities] Delete the Compute Engine tasks created before Fri Jul 14 18:38:08 CEST 2017
+2018.01.10 18:38:08 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is operational
+2018.01.10 19:09:06 INFO  ce[][o.s.p.ProcessEntryPoint] Starting ce
+2018.01.10 19:09:06 INFO  ce[][o.s.ce.app.CeServer] Compute Engine starting up...
+2018.01.10 19:09:07 INFO  ce[][o.e.p.PluginsService] no modules loaded
+2018.01.10 19:09:07 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018.01.10 19:09:07 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018.01.10 19:09:07 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018.01.10 19:09:07 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018.01.10 19:09:08 INFO  ce[][o.s.s.e.EsClientProvider] Connected to local Elasticsearch: [127.0.0.1:9001]
+2018.01.10 19:09:08 INFO  ce[][o.sonar.db.Database] Create JDBC data source for jdbc:h2:tcp://127.0.0.1:9092/sonar
+2018.01.10 19:09:08 WARN  ce[][o.s.d.DatabaseChecker] H2 database should be used for evaluation purpose only
+2018.01.10 19:09:09 INFO  ce[][o.s.s.p.ServerFileSystemImpl] SonarQube home: C:\sonarqube-6.6
+2018.01.10 19:09:09 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
+2018.01.10 19:09:14 WARN  ce[][o.s.c.p.ComponentKeys] Bad component key: org.sonar.process.systeminfo.JvmStateSection@383d80ba. Please implement toString() method on class org.sonar.process.systeminfo.JvmStateSection
+2018.01.10 19:09:14 INFO  ce[][o.s.c.q.PurgeCeActivities] Delete the Compute Engine tasks created before Fri Jul 14 19:09:14 CEST 2017
+2018.01.10 19:09:14 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is operational
+2018.01.10 19:17:00 INFO  ce[][o.s.p.ProcessEntryPoint] Starting ce
+2018.01.10 19:17:00 INFO  ce[][o.s.ce.app.CeServer] Compute Engine starting up...
+2018.01.10 19:17:00 INFO  ce[][o.e.p.PluginsService] no modules loaded
+2018.01.10 19:17:00 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018.01.10 19:17:00 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018.01.10 19:17:00 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018.01.10 19:17:00 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018.01.10 19:17:02 INFO  ce[][o.s.s.e.EsClientProvider] Connected to local Elasticsearch: [127.0.0.1:9001]
+2018.01.10 19:17:02 INFO  ce[][o.sonar.db.Database] Create JDBC data source for jdbc:h2:tcp://127.0.0.1:9092/sonar
+2018.01.10 19:17:02 WARN  ce[][o.s.d.DatabaseChecker] H2 database should be used for evaluation purpose only
+2018.01.10 19:17:02 INFO  ce[][o.s.s.p.ServerFileSystemImpl] SonarQube home: C:\Users\Marco\Documents\GitHub\laboratorio-4-esercizio-sonarqube-mahout-MarcoMartinelli32\sonarqube-6.6
+2018.01.10 19:17:03 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
+2018.01.10 19:17:08 WARN  ce[][o.s.c.p.ComponentKeys] Bad component key: org.sonar.process.systeminfo.JvmStateSection@64d74d02. Please implement toString() method on class org.sonar.process.systeminfo.JvmStateSection
+2018.01.10 19:17:08 INFO  ce[][o.s.c.q.PurgeCeActivities] Delete the Compute Engine tasks created before Fri Jul 14 19:17:08 CEST 2017
+2018.01.10 19:17:08 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is operational

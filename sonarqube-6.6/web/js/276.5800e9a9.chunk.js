@@ -1,0 +1,2 @@
+webpackJsonp([276],{2135:function(e,a,t){"use strict";function n(){return r.a.createElement("div",{className:"layout-page-main"},r.a.createElement("div",{className:"layout-page-main-inner"},r.a.createElement("div",{className:"search-navigator-intro markdown"},r.a.createElement("p",null,t.i(i.translate)("quality_gates.intro.1")),r.a.createElement("p",null,t.i(i.translate)("quality_gates.intro.2")))))}Object.defineProperty(a,"__esModule",{value:!0}),a.default=n;var l=t(0),r=t.n(l),i=t(2)}});
+//# sourceMappingURL=276.5800e9a9.chunk.js.map

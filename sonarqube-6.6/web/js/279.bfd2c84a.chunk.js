@@ -1,0 +1,2 @@
+webpackJsonp([279],{2118:function(e,t,a){"use strict";function c(e){var t=e.location.query.message;return n.createElement("div",{className:"text-center"},n.createElement("p",{id:"unauthorized"},"You're not authorized to access this page. Please contact the administrator."),!!t&&n.createElement("p",{className:"spacer-top"},"Reason : ",t),n.createElement("div",{className:"big-spacer-top"},n.createElement(r.Link,{to:"/"},"Home")))}Object.defineProperty(t,"__esModule",{value:!0}),t.default=c;var n=a(0),r=(a.n(n),a(10))}});
+//# sourceMappingURL=279.bfd2c84a.chunk.js.map
